@@ -30,7 +30,6 @@ Proud 🦎🪽✨⬆️☁️
 
 ![Статистика](https://github-readme-stats.vercel.app/api?username=romboooo&show_icons=true&theme=radical)
 ![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=romboooo&layout=compact&theme=radical)
-![тоже момент](https://api.github.com/users/:romboooo/stats/contributions)
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
