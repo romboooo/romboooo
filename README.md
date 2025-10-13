@@ -2,16 +2,19 @@
 я romboooo, студент 3-ого курса университета ИТМО (СППО). Я люблю писать веб-приложения и постоянно учусь новому.
 
 Proud 🦎🪽✨⬆️☁️
+
+## 💼 Work
+- OSMOCODE JS + PHP Fullstack Dev
+
 ## 🛠️ Мой стек технологий
-- **Языки программирования**: Java, Typescript, JavaScript, C, Python
-- **Фреймворки**: React
-- **Технологии**: Docker, Git,
+- **Языки программирования**: TS, PHP, JS, Python, Java 
+- **Технологии**: Docker, Git
 - **БД**: PostgreSQL, MariaDB, MicrosoftSQL
 
 ## 🌱 Над чем я работаю сейчас?
-- **Изучаю языки**: С++ и TypeScript
-- **Алгоритмы**: Яндекс контест + leetCode
-- **Университетская рутина**: Немного математики, изучение английского языка (B1), soft skills
+- **Функциональное программирование**: В рамках дисциплины в универе на языке F#
+- **FitLog**: Спортивный веб-дневник для отслеживания тренировочного прогресса: romboooo.ru (demo)
+- **Университетская рутина**: изучение английского языка (B1), soft skills
 
 ## 🔭 Специфический опыт
 - **Разработка игры на движке GODOT**: Не могу прикрепить ссылку, так как репа private :(. игра разрабатывалась на языке C#. В данный момент в проекте не учавствую
@@ -35,6 +38,9 @@ Proud 🦎🪽✨⬆️☁️
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![F%23](https://img.shields.io/badge/f%23-%23464d88.svg?style=for-the-badge&logo=fsharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
