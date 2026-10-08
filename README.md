@@ -4,17 +4,18 @@
 Proud 🦎🪽✨⬆️☁️
 
 ## 💼 Work
-- OSMOCODE JS + PHP Fullstack Dev
+- OSMOCODE JS + PHP Fullstack Dev (since 06/25)
 
 ## 🛠️ Мой стек технологий
 - **Языки программирования**: GO, Java, PHP, JS, TS  
 - **Технологии**: Docker, Git, linux, kafka
 - **БД**: MongoDB, PostgreSQL, MariaDB, MicrosoftSQL
 
-## 🌱 Над чем я работаю сейчас?
-- **FitLog**: Спортивный веб-дневник для отслеживания тренировочного прогресса: fit-log.ru (beta)
-- **Университетская рутина**: изучение английского языка (B1), soft skills
-- **leetcode**: Алгосы [мой акк](https://leetcode.com/u/romboooo/)
+## 🌱 над чем я работаю сейчас?
+- **fitlog**: спортивный веб-дневник для отслеживания тренировочного прогресса — [fit-log.ru](https://fit-log.ru) (beta)
+- **[rradar](https://github.com/romboooo/release-radar)**: трекер релизов github на go с терминальным интерфейсом и историей обновлений в sqlite
+- **[ttracker](https://github.com/romboooo/ttracker)**: разрабатываю автоматический трекер времени в приложениях для linux / hyprland на go
+- **leetcode**: решаю алгоритмические задачи — [мой аккаунт](https://leetcode.com/u/romboooo/)
 
 ## 📫 Написать мне
 - **Telegram** -> [здесь](https://t.me/romboooo)
