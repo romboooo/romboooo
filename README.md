@@ -32,8 +32,6 @@ my coursework and lab assignments live in **[rmb-itmo](https://github.com/orgs/r
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=romboooo&show_icons=true&theme=radical)
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=romboooo&layout=compact&theme=radical)
-![trophies](https://github-profile-trophy.vercel.app/?username=romboooo&theme=radical&margin-w=15)
-![visitor count](https://visitor-badge.laobi.icu/badge?page_id=romboooo.romboooo)
 
 ![go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
